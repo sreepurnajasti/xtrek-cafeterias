@@ -1,0 +1,198 @@
+[
+  {
+    "id": "mgb_bmc",
+    "code": "mgb_bmc",
+    "name": {
+      "en": "Mediterranean Grain Bowl",
+      "fr": "Bol m\u00e9diterran\u00e9en aux c\u00e9r\u00e9ales"
+    },
+    "description": {
+      "en": "A vibrant bowl with quinoa, brown rice, fresh vegetables and tangy feta, finished with a zesty tahini dressing.",
+      "fr": "Un bol color\u00e9 avec quinoa, riz brun, l\u00e9gumes frais et feta, napp\u00e9 d une sauce tahini citronn\u00e9e."
+    },
+    "ingredients": {
+      "en": [
+        "Quinoa",
+        "Brown rice",
+        "Chickpeas",
+        "Cherry tomatoes",
+        "Cucumber",
+        "Kalamata olives",
+        "Red onion",
+        "Feta cheese",
+        "Fresh parsley",
+        "Lemon juice",
+        "Olive oil",
+        "Garlic",
+        "Sea salt",
+        "Black pepper",
+        "Sumac",
+        "Tahini dressing (tahini, lemon juice, garlic, water, salt)"
+      ],
+      "fr": [
+        "Quinoa",
+        "Riz brun",
+        "Pois chiches",
+        "Tomates cerises",
+        "Concombre",
+        "Olives Kalamata",
+        "Oignon rouge",
+        "Fromage feta",
+        "Persil frais",
+        "Jus de citron",
+        "Huile d olive",
+        "Ail",
+        "Sel de mer",
+        "Poivre noir",
+        "Sumac",
+        "Sauce tahini (tahini, jus de citron, ail, eau, sel)"
+      ]
+    }
+  },
+  {
+    "id": "tgc_cvt",
+    "code": "tgc_cvt",
+    "name": {
+      "en": "Thai Green Curry with Tofu",
+      "fr": "Curry vert tha\u00ef au tofu"
+    },
+    "description": {
+      "en": "A fragrant coconut curry with colorful vegetables and tender tofu, served with jasmine rice.",
+      "fr": "Un curry parfum\u00e9 au lait de coco avec l\u00e9gumes color\u00e9s et tofu tendre, servi avec du riz jasmin."
+    },
+    "ingredients": {
+      "en": [
+        "Firm tofu, cubed",
+        "Coconut milk",
+        "Green curry paste",
+        "Bamboo shoots",
+        "Zucchini",
+        "Red and yellow bell peppers",
+        "Thai basil",
+        "Fish sauce or soy sauce",
+        "Brown sugar",
+        "Lime juice",
+        "Jasmine rice on the side"
+      ],
+      "fr": [
+        "Tofu ferme en cubes",
+        "Lait de coco",
+        "P\u00e2te de curry vert",
+        "Pousses de bambou",
+        "Courgette",
+        "Poivrons rouges et jaunes",
+        "Basilic tha\u00ef",
+        "Sauce de poisson ou sauce soja",
+        "Sucre brun",
+        "Jus de lime",
+        "Riz jasmin en accompagnement"
+      ]
+    }
+  },
+  {
+    "id": "lvl_lvg",
+    "code": "lvl_lvg",
+    "name": {
+      "en": "Loaded Veggie Lasagna",
+      "fr": "Lasagne v\u00e9g\u00e9tarienne gourmande"
+    },
+    "description": {
+      "en": "Oven baked lasagna layered with roasted vegetables, rich tomato sauce and three cheeses.",
+      "fr": "Lasagne g\u00e9n\u00e9reuse, au four, avec l\u00e9gumes r\u00f4tis, sauce tomate savoureuse et trois fromages."
+    },
+    "ingredients": {
+      "en": [
+        "Lasagna noodles",
+        "Ricotta cheese",
+        "Mozzarella cheese",
+        "Parmesan cheese",
+        "Spinach",
+        "Zucchini",
+        "Eggplant",
+        "Mushrooms",
+        "Bell peppers",
+        "Onion",
+        "Garlic",
+        "Olive oil",
+        "Tomato sauce (tomatoes, basil, oregano, salt, pepper)",
+        "Fresh basil",
+        "Nutmeg",
+        "Eggs in ricotta mix"
+      ],
+      "fr": [
+        "P\u00e2tes \u00e0 lasagne",
+        "Ricotta",
+        "Mozzarella",
+        "Parmesan",
+        "\u00c9pinards",
+        "Courgette",
+        "Aubergine",
+        "Champignons",
+        "Poivrons",
+        "Oignon",
+        "Ail",
+        "Huile d olive",
+        "Sauce tomate (tomates, basilic, origan, sel, poivre)",
+        "Basilic frais",
+        "Muscade",
+        "Oeufs dans le m\u00e9lange de ricotta"
+      ]
+    }
+  },
+  {
+    "id": "pjs_sje",
+    "code": "pjs_sje",
+    "name": {
+      "en": "BBQ Pulled Jackfruit Sandwich",
+      "fr": "Sandwich au jackfruit effiloch\u00e9 BBQ"
+    },
+    "description": {
+      "en": "A smoky plant based sandwich with tender jackfruit in BBQ sauce, topped with crunchy coleslaw.",
+      "fr": "Un sandwich v\u00e9g\u00e9tal fum\u00e9 avec jackfruit tendre en sauce BBQ, garni de coleslaw croquant."
+    },
+    "ingredients": {
+      "en": [
+        "Young green jackfruit, canned and drained",
+        "BBQ sauce",
+        "Onion",
+        "Garlic",
+        "Olive oil",
+        "Apple cider vinegar",
+        "Coleslaw mix (cabbage, carrots)",
+        "Coleslaw dressing (mayonnaise, vinegar, sugar, celery seed, salt)",
+        "Whole wheat sandwich buns",
+        "Pickles",
+        "Fresh cilantro, optional garnish"
+      ],
+      "fr": [
+        "Jackfruit vert en conserve, \u00e9goutt\u00e9",
+        "Sauce BBQ",
+        "Oignon",
+        "Ail",
+        "Huile d olive",
+        "Vinaigre de cidre",
+        "M\u00e9lange de coleslaw (chou, carottes)",
+        "Sauce coleslaw (mayonnaise, vinaigre, sucre, graines de c\u00e9leri, sel)",
+        "Pains \u00e0 sandwich de bl\u00e9 entier",
+        "Cornichons",
+        "Coriandre fra\u00eeche, garniture facultative"
+      ]
+    }
+  },
+  {
+    "id": "mod_mdj",
+    "code": "mod_mdj",
+    "name": {
+      "en": "Menu of the day",
+      "fr": "Menu du jour"
+    },
+    "description": {
+      "en": "Discover today s fresh selections crafted with seasonal and local ingredients. Ingredients are available on request, please ask our staff if you have any dietary concerns or allergies.",
+      "fr": "D\u00e9couvrez les s\u00e9lections fra\u00eeches du jour, pr\u00e9par\u00e9es avec des ingr\u00e9dients de saison et des produits locaux. La liste des ingr\u00e9dients est disponible sur demande, consultez notre personnel pour toute allergie ou pr\u00e9occupation alimentaire."
+    },
+    "ingredients": {
+      "en": [],
+      "fr": []
+    }
+  }
+]
